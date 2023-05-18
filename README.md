@@ -38,5 +38,5 @@ interested in **Multi-Behavior Sequential Recommendation System (MBSR)**.
 
 ## Contact
 Email : hanbeul2@g.skku.edu \
-[Google] Github link : https://github.com/KimHanBeul?tab=repositories
+Github link : https://github.com/KimHanBeul?tab=repositories
 
