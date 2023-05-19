@@ -6,6 +6,15 @@ Hi' I'm HanBeul Kim, bachelor/master course student in **IISLAB@SKKU** South Kor
 My research topic is **Recommendation System** and I'm especially \
 interested in **Multi-Behavior Sequential Recommendation System (MBSR)**.
 
+## Skills
+**Python**
+*  Level : Low / <u>Middle</u> / High
+*  Able to understand and apply the code in paper using python
+
+**Java**
+* Level : Low / <u>Middle</u> / High
+* Able to develop the Web and App Backend
+
 ## Education
 * **SungKyunKwan University(SKKU)**, South Korea\
 **M.S.**, Artificial Intellegence, 2023 ~
