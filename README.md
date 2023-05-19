@@ -8,11 +8,11 @@ interested in **Multi-Behavior Sequential Recommendation System (MBSR)**.
 
 ## Skills
 **Python**
-*  Level : Low / <u>Middle</u> / High
+*  Level : Low / **Middle** / High
 *  Able to understand and apply the code in paper using python
 
 **Java**
-* Level : Low / <u>Middle</u> / High
+* Level : Low / **Middle** / High
 * Able to develop the Web and App Backend
 
 ## Education
